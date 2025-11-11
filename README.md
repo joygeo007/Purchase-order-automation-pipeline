@@ -194,7 +194,3 @@ This system is ideal for:
 - [Unstract](https://github.com/Zipstack/unstract) - Open-source document extraction platform
 - [n8n](https://n8n.io/) - Workflow automation platform
 - [Anthropic Claude](https://www.anthropic.com/) - LLM for high-accuracy extraction
-
-**For architecture emphasis:**
-```
-Designed multi-layer validation architecture for AI-powered document extraction, combining n8n workflow automation with Unstract LLM processing
